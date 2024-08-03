@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "770519942349",
+    "firebase_url": "https://productkotlin-default-rtdb.firebaseio.com",
+    "project_id": "productkotlin",
+    "storage_bucket": "productkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770519942349:android:f1a4cd64288cd791035584",
+        "android_client_info": {
+          "package_name": "com.example.firebasekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtsRI1_-FJ-tSFj4aaLnGjqi_rJ-nsMjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
